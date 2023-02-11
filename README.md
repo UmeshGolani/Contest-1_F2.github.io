@@ -25,12 +25,18 @@ alt text
 
 Step 3: Click on the “Create a new repository” button
 alt text
+![image](https://user-images.githubusercontent.com/35754561/218251244-f635d972-ad13-4755-92f3-cf6e746c4e1f.png)
+
 
 Step 4: Enter a repository name of your choice.
 alt text
+![image](https://user-images.githubusercontent.com/35754561/218251250-7764455d-b394-45a9-974c-e0f43633c0fe.png)
+
 
 Step 5: Click on “Create repository from template”
 alt text
+![image](https://user-images.githubusercontent.com/35754561/218251257-349ba988-78b5-4d6f-8a61-ae18db5fe211.png)
+
 
 Guidelines
 Clone the given Github repository and edit the script.js file only.
